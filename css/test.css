@@ -1,0 +1,13 @@
+p{
+display: inline-block;
+width: 100px;
+    background-color: blueviolet;
+}
+span{
+    background-color:red;
+    display: inline-block;
+    width: 133px;
+}
+.hi{
+    visibility: hidden;
+}
